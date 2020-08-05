@@ -1,0 +1,8 @@
+﻿  main.cpp
+f:\软硬件\c project\培训练习\vs练习\数据结构\实验四\project4\project4\mgraph.h(10): warning C4005: “INFINITY”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_math.h(89): note: 参见“INFINITY”的前一个定义
+  MGraph.cpp
+f:\软硬件\c project\培训练习\vs练习\数据结构\实验四\project4\project4\mgraph.h(10): warning C4005: “INFINITY”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_math.h(89): note: 参见“INFINITY”的前一个定义
+  正在生成代码...
+  Project4.vcxproj -> F:\软硬件\c project\培训练习\VS练习\数据结构\实验四\Project4\Debug\Project4.exe
